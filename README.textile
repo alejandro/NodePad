@@ -1,6 +1,6 @@
 h3. Nodepad
 
-This is a Node notepad, written for a tutorial series on "DailyJS":http://dailyjs.com.
+This is a fork of the Node notepad, written for a tutorial series on "DailyJS":http://dailyjs.com.
 
 h3. Updates
 
@@ -48,7 +48,7 @@ npm install .
 node app.js
 </pre>
 
-h3. Contributions
+h3. Original Contributions by
 
 * "luebken":https://github.com/luebken
 * "eirikurn":https://github.com/eirikurn
